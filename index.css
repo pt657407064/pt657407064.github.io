@@ -42,3 +42,13 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+.blinking{
+		animation:blinkingText 5s infinite;
+}
+
+@keyframes blinkingText{
+	30%  { color:  #0f0; }
+	50% { color:  #0f0; }
+	99% { color: black; }
+}
