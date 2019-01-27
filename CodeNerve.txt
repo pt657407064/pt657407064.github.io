@@ -1,0 +1,32 @@
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span> name<br/>
+> Name: Tao Pan
+
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span> languages<br/>
+> Java
+> Python
+> Javascript
+> Golang
+
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span> title<br/>
+> Title: Software Development Engineer
+
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span> ./self_introduction.sh
+> Hey Viewer!<br>> This Tao here!<br>
+> I am a Software Development Engineer@<a href="http://aws.amazon.com">AWS</a><br>
+> Love Coding, and Addicted to it<br>
+> Enjoying Problem Solving; Caring About the Process AS MUCH AS Caring About the Result<br/>
+> Experienced Engineer with Passion in Cloud Computing, Distributed System,
+&nbsp;&nbsp;Micro-services</br>
+> Familiar with Algorithms, Data Structure and Time&&Space Complexity Analysis <br>
+> Pay Attention to Machine Learning, Deep Learning and AI<br>
+> Always Stay Hungry for Knowledge and New Technology<br>
+
+> Feel free to send me an email at <a href="taopan1211@gmail.com">taopan1211@gmail.com</a>.
+
+<p>> Cheers!</p>
+
+
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span> links<br/>
+<a href="https://github.com/pt657407064/">> Github</a> | <a href="https://linkedin.com/in/tao-pan-345643b2/">Linkedin</a><br>
+
+<span id="a">awesome@coding</span>:<span id="b">~</span><span id="c">$</span>
